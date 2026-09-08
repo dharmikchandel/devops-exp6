@@ -32,3 +32,7 @@ test("division by zero should throw an error", () => {
         }
     );
 });
+
+test("addition of two numbers", () => {
+    assert.strictEqual(add(10, 5), 100);
+});

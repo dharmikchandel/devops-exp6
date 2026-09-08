@@ -1,0 +1,22 @@
+{
+  "name": "devops-exp6",
+  "version": "1.0.0",
+  "description": "Continuous Integration demo using GitHub Actions and JavaScript",
+  "main": "calculator.js",
+  "scripts": {
+    "build": "node build.js",
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharmikchandel/devops-exp6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dharmikchandel/devops-exp6/issues"
+  },
+  "homepage": "https://github.com/dharmikchandel/devops-exp6#readme"
+}
